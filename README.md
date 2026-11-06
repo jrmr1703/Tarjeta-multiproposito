@@ -16,7 +16,7 @@ Este repositorio documenta el avance y las futuras revisiones del diseño.
 - Entrada de alimentación AC con fusible y filtrado.
 - Conversión AC a 5 V mediante módulo IRM-20-5.
 - Regulación de 5 V a 3.3 V mediante AMS1117-3.3.
-- Control con microcontrolador y botones RESET y BOOT.
+- Control con módulo ESP32-S3-WROOM-1-N16R8 (16 MB de Flash y 8 MB de PSRAM), con botones RESET y BOOT.
 - Etapa de relevador con optoacoplador PC817 y transistor 2N2222.
 - Comunicación RF de 433 MHz mediante módulo HC-12.
 - Interfaz UART.
